@@ -1,9 +1,3 @@
-Awesome 🚀
-Here’s **Part 1** of your eBook in clean **Markdown (.md)** format.
-You can directly copy and save it as `PHP-Laravel-Interview-Guide-Part1.md`.
-
----
-
 # **PHP & Laravel Interview Master Guide — 150+ Questions with Answers**
 
 ### *Written by Neeraj Saini — Senior Software Engineer*
@@ -387,6 +381,3 @@ Reusable solutions to common problems:
 ---
 
 ✅ **End of Part 1 (Core PHP)**
-Next → **Part 2: Advanced PHP (Q31–Q60)** — includes OOP internals, reflection, autoloading, SPL, attributes, and more.
-
-Would you like me to continue with **Part 2** now?
