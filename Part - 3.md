@@ -1,9 +1,3 @@
-Awesome 🔥
-Here’s **Part 3** of your eBook — written in clean **Markdown (.md)** format.
-Save it as `PHP-Laravel-Interview-Guide-Part3.md` to combine later.
-
----
-
 # **Part 3 — Laravel Fundamentals (Q61–Q90)**
 
 ---
@@ -451,8 +445,3 @@ DB_PASSWORD=secret
 ---
 
 ✅ **End of Part 3 (Laravel Fundamentals)**
-
-Next → **Part 4: Advanced Laravel (Q91–Q120)**
-Includes topics like Service Providers, Broadcasting, API Resources, Authentication (Sanctum & Passport), Testing, and Optimization.
-
-Would you like me to continue with **Part 4 (Advanced Laravel)** now?
