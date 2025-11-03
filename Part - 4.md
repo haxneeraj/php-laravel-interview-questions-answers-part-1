@@ -1,9 +1,3 @@
-Excellent ⚡
-Here’s **Part 4** of your eBook — formatted cleanly in Markdown (`.md`) for seamless merging with previous sections.
-Save it as `PHP-Laravel-Interview-Guide-Part4.md`.
-
----
-
 # **Part 4 — Advanced Laravel Interview Questions (Q91–Q120)**
 
 ---
@@ -389,8 +383,3 @@ A package that manages **subscriptions and billing** with Stripe or Paddle.
 ---
 
 ✅ **End of Part 4 (Advanced Laravel)**
-
-Next → **Part 5: Performance, Security & Testing (Q121–Q150)**
-This section will include caching strategies, testing techniques, optimization commands, Laravel security practices, and interview pro tips.
-
-Would you like me to continue with **Part 5** now?
