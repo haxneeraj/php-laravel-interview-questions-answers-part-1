@@ -1,9 +1,3 @@
-Awesome ⚡
-Here’s **Part 5** of your eBook — written in clean **Markdown (.md)** format, ready to merge with earlier parts.
-Save it as `PHP-Laravel-Interview-Guide-Part5.md`.
-
----
-
 # **Part 5 — Performance, Security & Testing (Q121–Q150)**
 
 ---
@@ -383,8 +377,3 @@ Integrate tools like **Sentry**, **Bugsnag**, or **Rollbar** using service provi
 ---
 
 ✅ **End of Part 5 (Performance, Security & Testing)**
-
-Next → **Part 6: Summary, Interview Tips & Author Bio**
-This will include a closing section with key takeaways, final advice, and your personal author page credit.
-
-Would you like me to continue with **Part 6 (Final Summary & Author Bio)** now?
