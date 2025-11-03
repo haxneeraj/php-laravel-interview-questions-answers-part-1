@@ -98,11 +98,6 @@ aka [**HaxNeeraj**](https://github.com/haxneeraj)
 
 ---
 
-## 🧾 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## ⭐ Support
 
@@ -113,10 +108,6 @@ If you found this useful:
 * Tag **@haxneeraj** when you post it — I’d love to see your feedback!
 
 ---
-
-### 🖼️ Cover Preview
-
-![Cover](./cover.png)
 
 > *PHP & Laravel Interview Master Guide — 150+ Questions with Answers*
 > *by Neeraj Saini (HaxNeeraj)*
