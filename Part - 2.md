@@ -1,9 +1,3 @@
-Perfect ⚡
-Here’s **Part 2** of your eBook — written in clean **Markdown (.md)** format, ready for merging with Part 1 later.
-You can save it as `PHP-Laravel-Interview-Guide-Part2.md`.
-
----
-
 # **Part 2 — Advanced PHP Interview Questions (Q31–Q60)**
 
 ---
@@ -359,8 +353,3 @@ Examples: `php://input`, `php://output`, `php://memory`
 ---
 
 ✅ **End of Part 2 (Advanced PHP)**
-
-Next → **Part 3: Laravel Fundamentals (Q61–Q90)**
-This section will cover the MVC pattern, Eloquent ORM, Routing, Middleware, Blade, and Dependency Injection in Laravel.
-
-Would you like me to continue with **Part 3 (Laravel Fundamentals)** now?
