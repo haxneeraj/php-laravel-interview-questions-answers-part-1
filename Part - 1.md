@@ -1,9 +1,13 @@
+
 # **PHP & Laravel Interview Master Guide — 150+ Questions with Answers**
 
 ### *Written by Neeraj Saini — Senior Software Engineer*
 
-**aka [HaxNeeraj](https://github.com/haxneeraj)**
-🌐 [www.haxneeraj.com](https://www.haxneeraj.com)
+🔗 **Links**  
+🧑‍💻 GitHub → [github.com/haxneeraj](https://github.com/haxneeraj)  
+🌍 Portfolio → [www.haxneeraj.com](https://www.haxneeraj.com)  
+💼 LinkedIn → [linkedin.com/in/hax-neeraj](https://www.linkedin.com/in/hax-neeraj/)
+
 
 ---
 
