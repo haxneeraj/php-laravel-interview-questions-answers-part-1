@@ -1,5 +1,13 @@
 # **Part 4 — Advanced Laravel Interview Questions (Q91–Q120)**
 
+### *Written by Neeraj Saini — Senior Software Engineer*
+
+🔗 **Links**  
+🧑‍💻 GitHub → [github.com/haxneeraj](https://github.com/haxneeraj)  
+🌍 Portfolio → [www.haxneeraj.com](https://www.haxneeraj.com)  
+💼 LinkedIn → [linkedin.com/in/hax-neeraj](https://www.linkedin.com/in/hax-neeraj/)
+
+
 ---
 
 ### **Q91. What are Laravel Contracts?**
