@@ -1,5 +1,13 @@
 # **Part 5 — Performance, Security & Testing (Q121–Q150)**
 
+### *Written by Neeraj Saini — Senior Software Engineer*
+
+🔗 **Links**  
+🧑‍💻 GitHub → [github.com/haxneeraj](https://github.com/haxneeraj)  
+🌍 Portfolio → [www.haxneeraj.com](https://www.haxneeraj.com)  
+💼 LinkedIn → [linkedin.com/in/hax-neeraj](https://www.linkedin.com/in/hax-neeraj/)
+
+
 ---
 
 ### **Q121. What are common ways to improve Laravel application performance?**
